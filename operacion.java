@@ -14,6 +14,9 @@ import javax.swing.*;
  * @author fredy
  */
 public class operacion extends JFrame implements ActionListener {
+public operacion(){
+	
+}
 
     private static JButton[][] btn = new JButton[8][8];
 

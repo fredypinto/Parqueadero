@@ -17,6 +17,7 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         operacion op= new operacion();
+        op.construir();
         
                 
     }
